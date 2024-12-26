@@ -1,3 +1,1 @@
-fastapi
-uvicorn
-line-bot-sdk
+flask
